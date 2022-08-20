@@ -1,6 +1,6 @@
 # classification_pipeline
 
-This repo contains the classification pipeline forged in Alrosa's project flame
+This repo contains the classification pipeline for face recognition
 
 ## Usage scenarios
 One could use this repo for:
