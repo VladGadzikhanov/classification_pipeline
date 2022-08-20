@@ -1,0 +1,13 @@
+experiment_param:
+  name: detailes_classification
+  path_save: '../../experiments'
+  path_tensorboard: '../../experiments/tensorboard'
+  seed: 50
+
+train_param:
+  num_epochs: 100
+  batch_size: 40
+  num_workers: 8
+  lr: 0.00001
+  cuda_number: 0
+  use_balanced_weights: true

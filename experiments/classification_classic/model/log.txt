@@ -1,0 +1,2 @@
+experiment_params: lr = 1e-05, optimizer - Adam
+Epoch: 0 | phase: train |: 16:15:05

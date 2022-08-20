@@ -1,0 +1,2 @@
+optimizer:Adam
+loss:categorical_crossentropy
